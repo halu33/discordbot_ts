@@ -1,0 +1,21 @@
+# 生成物
+dist/
+build/
+logs/
+coverage/
+*.log
+
+# node関連
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+.pnpm-debug.log*
+
+# 環境依存
+.env
+.env.*
+.DS_Store
+.idea/
+.vscode/
