@@ -22,7 +22,3 @@
 - **storage/**：DB操作（共通DAO）
 - **schedulers/**：定期タスク
 - **utils/**：共通関数
-
-## 今後の拡張
-- MarkovChain自動発言
-- Notion / Google Sheets 連携
